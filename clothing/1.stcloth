@@ -1,0 +1,14 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	data = 
+	{
+		Clothing = 
+		[
+			resource:"models/citizen_clothes/hat/beanie/beanie.clothing",
+			resource:"models/citizen_clothes/shirt/polo_shirt/polo_shirt.clothing",
+			resource:"models/citizen_clothes/trousers/jeans/jeans_black.clothing",
+			resource:"models/citizen_clothes/shoes/sneakers/sneakers.clothing",
+			resource:"models/citizen_clothes/hair/eyebrows/eyebrows.clothing",
+		]
+	}
+}

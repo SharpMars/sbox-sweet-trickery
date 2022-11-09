@@ -1,0 +1,25 @@
+﻿Score
+{
+  width: 30%;
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  align-items: center;
+  
+  .image
+  {
+    width: 200px;
+    transform: rotateZ(-10deg);
+    aspect-ratio: 2.3;
+    background-size: cover;
+    margin-right: 30px;
+  }
+  
+  .score
+  {
+    width: 100%;
+    font-size: 72px;
+    font-family: Creepster;
+    text-stroke: 4px #19b074ff;
+  }
+}

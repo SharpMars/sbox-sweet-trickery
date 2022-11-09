@@ -1,0 +1,40 @@
+{
+  "Title": "Sweet Trickery",
+  "Type": "game",
+  "Org": "sharpmars",
+  "Ident": "sweet_trickery",
+  "Tags": "",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": [
+    "/ui/*",
+    "/fonts/*",
+    "/clothing/*"
+  ],
+  "HasCode": true,
+  "CodePath": "/code/",
+  "RootNamespace": null,
+  "Metadata": {
+    "MaxPlayers": 1,
+    "MinPlayers": 1,
+    "GameNetworkType": "Singleplayer",
+    "MapSelect": "Tagged",
+    "MapList": [],
+    "RankType": "None",
+    "PerMapRanking": false,
+    "LeaderboardType": "None",
+    "ProjectTemplate": null,
+    "GameCategory": "None",
+    "Compiler": {
+      "RootNamespace": "SweetTrickery",
+      "DefineConstants": "SANDBOX;ADDON;DEBUG",
+      "NoWarn": "1701;1702;1591;"
+    },
+    "ParentPackage": "",
+    "DefaultLeaderboards": [],
+    "ControlModes": {
+      "Keyboard": true
+    }
+  }
+}

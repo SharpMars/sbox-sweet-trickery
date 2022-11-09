@@ -1,0 +1,16 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	data = 
+	{
+		Clothing = 
+		[
+			resource:"models/citizen_clothes/makeup/freckles/freckles.clothing",
+			resource:"models/citizen_clothes/hair/hair_tight_ponytail/hair_tight_ponytail.clothing",
+			resource:"models/citizen_clothes/glasses/nerdy_glasses/nerdy_glasses.clothing",
+			resource:"models/citizen_clothes/skin02.clothing",
+			resource:"models/citizen_clothes/shirt/v_neck_tshirt/blue_v_neck_tshirt.clothing",
+			resource:"models/citizen_clothes/trousers/jeans/jeans_black.clothing",
+			resource:"models/citizen_clothes/shoes/smartshoes/smartshoes.clothing",
+		]
+	}
+}
